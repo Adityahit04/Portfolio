@@ -17,7 +17,7 @@ function Footer() {
         9760101554</h5>
         
         </div>
-        <p>Aditya444401@gmail.com</p>
+        <h5>Aditya444401@gmail.com</h5>
 
     </div>
   )

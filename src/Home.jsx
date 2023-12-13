@@ -16,7 +16,7 @@ function Home() {
         </div>
         <div className='skills'><h1>Skills</h1>
         <ol className='list'>
-            <li className='items'><h2>Front end</h2><span>Reactjs,Redux,TypeScript,JavaScript,Html,Tailwind css,Material UI,Bootstrap</span></li>
+            <li className='items'><h2>Front end</h2><span>Reactjs,Redux,TypeScript,JavaScript,Html,<br/>Tailwind css,Material UI,Bootstrap</span></li>
             <li className='items'><h2>Back end</h2><span>Node</span><br/><span>ExpressJS</span><br/><span>Mongo DB</span><br/><span>Mern Application</span></li>
             </ol></div>
 
